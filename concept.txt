@@ -1,3 +1,8 @@
 1. Clone the repo locally
 2. Create branch
-	git checkout -b <BranchName>
+	git checkout -b [BranchName] ; ALSO SWITCHES TO THIS BRANCH!
+3. Manipulate branches 
+	git branch [name] >>> only creates the branch
+	git branch -a >>> list all branches
+	git branch -d [name]  >>> delete a branch
+
