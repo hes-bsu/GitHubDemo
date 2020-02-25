@@ -5,4 +5,7 @@
 	git branch [name] >>> only creates the branch
 	git branch -a >>> list all branches
 	git branch -d [name]  >>> delete a branch
-
+4. Push it up there!
+	git add .
+	git commit -m <Message>
+	git push --set-upstream origin NickBranch 
