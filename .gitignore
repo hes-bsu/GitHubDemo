@@ -4,4 +4,4 @@
 .Ruserdata
 .zip
 *.tif
-ignoreME.txt
+ignoreMe*
