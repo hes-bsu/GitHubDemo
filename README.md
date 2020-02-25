@@ -1,6 +1,7 @@
 # GitHubDemo
 GitHubDemo for ERA workshop
-
-This is my example woooo!
-
 ![](lochsa river.jpg)
+Hello! - LH WOOOOO
+## This is brent's read me file
+# Will it work?
+
